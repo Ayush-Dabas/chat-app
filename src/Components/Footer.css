@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(29, 62, 118);
+    border-radius: 20px 20px 0px 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    align-items: center;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.footer > h3{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    color: aqua;
+}
